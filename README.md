@@ -96,5 +96,5 @@ python -m unittest test_dqn.py -v
 
 If you have any questions, please contact us through the following methods:
 
-- GitHub Issues: https://github.com/yourusername/yourproject/issues
+- GitHub Issues: https://github.com/Esther-Elina9/DQN_Scheduler/issues
 - Email: esther_elina@outlook.com
