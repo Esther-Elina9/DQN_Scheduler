@@ -33,7 +33,7 @@ The algorithm achieves adaptive resource management for dynamic workloads throug
 - NumPy 1.24.3
 - Matplotlib 3.7.5
 - Keras 2.13.1
-  ##Installation
+
 
 ## Quick start
 
